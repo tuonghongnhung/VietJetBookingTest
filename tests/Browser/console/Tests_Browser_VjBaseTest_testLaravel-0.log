@@ -1,0 +1,14 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/www.vietjetair.com\/Sites\/Web\/vi-VN\/Home - Failed to load resource: the server responded with a status of 403 ()",
+        "source": "network",
+        "timestamp": 1548651828198
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/www.vietjetair.com\/favicon.ico - Failed to load resource: the server responded with a status of 403 ()",
+        "source": "network",
+        "timestamp": 1548651828293
+    }
+]
